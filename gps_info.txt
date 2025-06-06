@@ -1,0 +1,5 @@
+nmea gps time and rtcm gps time and providing following data 1005, 1077 1097,1117,1127,1127 and nmea gga data
+i have to check time is matched with above with data or not
+gga time
+crc
+check realtime data
